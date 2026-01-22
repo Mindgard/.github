@@ -1,4 +1,4 @@
-# README
+# Mindgard
 
 Mindgard is the leading provider of AI Red Teaming solutions. Spun out from over a decade of AI security research at Lancaster University and headquartered in Boston and London, Mindgard helps enterprises secure their AI models, agents, and applications across the AI lifecycle.
 
